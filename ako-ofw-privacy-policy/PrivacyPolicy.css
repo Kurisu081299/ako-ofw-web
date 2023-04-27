@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #e1efff;
+    font-family: Arial, sans-serif;
+  }
+  
+  div {
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: justify;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    max-width: 80%;
+    min-width: 300px;
+    word-wrap: break-word;
+  }
+  
+  footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
